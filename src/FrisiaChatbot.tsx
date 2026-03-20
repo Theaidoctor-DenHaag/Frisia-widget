@@ -60,7 +60,7 @@ export default function FrisiaChatbot() {
 
   const welcome = useMemo(
     () =>
-      "Welkom bij Frisia Makelaars! Ik ben Lisa, uw digitale assistent. Bent u op zoek naar bedrijfsruimte, of wilt u uw pand verhuren of verkopen?",
+      "Welkom bij Frisia Makelaars! Ik ben Lisa, uw digitale assistent. Bent u op zoek naar een bedrijfspand, of wilt u juist een object aanbieden?",
     []
   );
 
